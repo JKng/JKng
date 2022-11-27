@@ -1,14 +1,21 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Juliana!
+### Hi there 👋 Welcome to my profile, my name is Juliana
+#### I am Data Engineer - Putting People First in a Data-Driven World
+![I am Data Engineer - Putting People First in a Data-Driven World](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-## Contatos:
+Promoting a digitally conscious environment through Data Empowerment movement (push for more transparent data practices and has resulted in more internet users taking control of their data).
+
+
+Skills: Python / SQL / ETL / BI / Airflow
+
+## Contacts
 <a href="https://www.linkedin.com/in/juliana-konigame/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 <a href="https://medium.com/@julianak.cdc" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>   
 </div>
 
-
+## Quick overview
+GitHub stats:
 <div>
 <a href="https://github.com/JKng">
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKng&layout=compact&langs_count=7&theme=dracula"/>
