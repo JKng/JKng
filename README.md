@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my profile, my name is Juliana
 #### I am Data Engineer - Putting People First in a Data-Driven World
-![I am Data Engineer - Putting People First in a Data-Driven World](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Data Engineer - Putting People First in a Data-Driven World](https://github.com/JKng/JKng/blob/main/data_literacy.png)
 
 Promoting a digitally conscious environment through Data Empowerment movement (push for more transparent data practices and has resulted in more internet users taking control of their data).
 
