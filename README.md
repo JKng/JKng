@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Snake animation](https://github.com/JKng/JKng/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/JKng">
