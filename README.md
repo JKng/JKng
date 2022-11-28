@@ -3,10 +3,11 @@
 ![I am Data Engineer - Putting People First in a Data-Driven World](https://github.com/JKng/JKng/blob/main/data_literacy.png)
 
 Promoting a digitally conscious environment through Data Empowerment:
-more transparent data practices 
-more internet users taking control of their data 
+-more transparent data practices 
+-more internet users taking control of their data 
 
-Skills: Python / SQL / ETL / BI / Airflow
+## Skills
+Python / SQL / ETL / BI / Airflow
 
 ## Contacts
 <a href="https://www.linkedin.com/in/juliana-konigame/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
