@@ -8,7 +8,7 @@ Using my Curiosity, Creativity and Critical thinking to ask the right questions,
 Promoting a digitally conscious environment through Data Litearcy and Data Empowerment:
 - develop the ability to read, analyze, work, and communicate with data
 - push for more transparent data practices 
-- internet users taking control of their data 
+- encourage internet users to take control of their data 
 
 ## Portfolio
 Check out some of my projects [here](https://github.com/JKng/Portfolio)
