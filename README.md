@@ -1,11 +1,14 @@
 ## Hi there 👋 Welcome to my profile, my name is Juliana
 ### I am Data Engineer - Putting People First in a Data-Driven World
 
-![I am Data Engineer - Putting People First in a Data-Driven World](https://github.com/JKng/JKng/blob/main/data_literacy.png)
+Curiosity, Creativity and Critical thinking to ask the right questions, make educated decisions, and communicate essential findings to others
 
-Promoting a digitally conscious environment through Data Empowerment:
-- more transparent data practices 
-- more internet users taking control of their data 
+<img src="https://github.com/JKng/JKng/blob/main/data_literacy.png" width="800" height="300">
+
+Promoting a digitally conscious environment through Data Litearcy and Data Empowerment:
+- develop the ability to read, analyze, work, and communicate with data
+- push for more transparent data practices 
+- internet users taking control of their data 
 
 ## Skills
 Python / SQL / ETL / BI / Airflow
