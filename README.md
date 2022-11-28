@@ -3,7 +3,7 @@
 
 Curiosity, Creativity and Critical thinking to ask the right questions, make educated decisions, and communicate essential findings to others
 
-<img src="https://github.com/JKng/JKng/blob/main/data_literacy.png" width="700" height="250">
+<img src="https://github.com/JKng/JKng/blob/main/data_literacy.png" width="650" height="180">
 
 Promoting a digitally conscious environment through Data Litearcy and Data Empowerment:
 - develop the ability to read, analyze, work, and communicate with data
