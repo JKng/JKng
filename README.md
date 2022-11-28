@@ -2,8 +2,9 @@
 ### I am Data Engineer - Putting People First in a Data-Driven World
 ![I am Data Engineer - Putting People First in a Data-Driven World](https://github.com/JKng/JKng/blob/main/data_literacy.png)
 
-Promoting a digitally conscious environment through Data Empowerment movement (push for more transparent data practices and more internet users taking control of their data). Source: https://www.invisibly.com/learn-blog/data-empowerment
-
+Promoting a digitally conscious environment through Data Empowerment:
+more transparent data practices 
+more internet users taking control of their data 
 
 Skills: Python / SQL / ETL / BI / Airflow
 
