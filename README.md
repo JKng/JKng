@@ -11,7 +11,7 @@ Promoting a digitally conscious environment through Data Litearcy and Data Empow
 - internet users taking control of their data 
 
 ## Portfolio
-Check out some of my projects
+Check out some of my projects [here](https://github.com/JKng/Portfolio)
 
 ## Skills
 Python / SQL / ETL / BI / Airflow
