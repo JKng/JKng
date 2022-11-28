@@ -10,13 +10,17 @@ Promoting a digitally conscious environment through Data Litearcy and Data Empow
 - push for more transparent data practices 
 - internet users taking control of their data 
 
+## Portfolio
+Check out some of my projects
+
 ## Skills
 Python / SQL / ETL / BI / Airflow
 
-## Contacts
+## Let's Connect
 <a href="https://www.linkedin.com/in/juliana-konigame/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## Blog
 <a href="https://medium.com/@julianak.cdc" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>   
 </div>
 
