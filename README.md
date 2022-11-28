@@ -25,7 +25,7 @@ Python / SQL / ETL / BI / Airflow
 </div>
 
 ## Quick overview
-GitHub stats:
+
 <div>
 <a href="https://github.com/JKng">
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKng&layout=compact&langs_count=7&theme=dracula"/>
