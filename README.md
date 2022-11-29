@@ -1,14 +1,14 @@
 ## Hi there 👋 Welcome to my profile, my name is Juliana
 ### I am Data Engineer - Putting People First in a Data-Driven World
 
-Improving Curiosity, Creativity and Critical thinking to ask the right questions, make educated decisions, and communicate essential findings to others
+Developing Curiosity, Creativity and Critical thinking to ask the right questions, make educated decisions, and communicate essential findings to others
 
 <img src="https://github.com/JKng/JKng/blob/main/data_literacy.png" width="650" height="180">
 
 <sub> Image: unite.un.org/blog/data-literacy-–-human-element-data </sub>
 
 Promoting a digitally conscious environment through Data Litearcy and Data Empowerment:
-- develop the ability to read, analyze, work, and communicate with data
+- improve the ability to read, analyze, work, and communicate with data
 - push for more transparent data practices 
 - encourage internet users to take control of their data 
 
