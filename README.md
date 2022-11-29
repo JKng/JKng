@@ -1,7 +1,7 @@
 ## Hi there 👋 Welcome to my profile, my name is Juliana
 ### I am Data Engineer - Putting People First in a Data-Driven World
 
-Developing Curiosity, Creativity and Critical thinking to ask the right questions, make educated decisions, and communicate essential findings to others
+Improving Curiosity, Creativity and Critical thinking to ask the right questions, make educated decisions, and communicate essential findings to others
 
 <img src="https://github.com/JKng/JKng/blob/main/data_literacy.png" width="650" height="180">
 
